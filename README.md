@@ -1,1 +1,3 @@
-# joelcednod67
+<p align="center">
+  <img src="banner.png" alt="Banner de perfil">
+</p>
